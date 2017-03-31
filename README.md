@@ -1,3 +1,5 @@
+<!--I think doing this as a catch-up activity is the right way to do it -->
+
 # Intro to EJS
 
 Today we will introduce EJS: a tool that will save you time and DRY out your code by allowing you to use the power of Javascript inside your HTML views.  Let's get started!
